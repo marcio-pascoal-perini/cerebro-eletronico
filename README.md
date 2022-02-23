@@ -10,11 +10,11 @@
 | Arquivo | Descrição |
 | :--- | :---- |
 | C000.simu   | Circuito baseado na versão original com um LED e com botões no lugar das pontas de provas. |
-| C001.simu   | Circuito com portas logicas (Eletronica Digital). Com dois LED's indicadores de correspondencias certas ou não. |
+| C001.simu   | Circuito com portas logicas (Eletrônica Digital). Com dois LED's indicadores de correspondências certas ou não. |
 | C002.ino    | Código para o circuito C002.simu (Arduino Uno). |
-| C002.simu   | Circuito com o Arduino Uno. Com dois LED's indicadores de correspondencias certas ou não. |
+| C002.simu   | Circuito com o Arduino Uno. Com dois LED's indicadores de correspondências certas ou não. |
 | C003.c      | Código para o circuito C003.simu (PIC16F877A). |
-| C003.simu   | Circuito com o microcontrolador PIC16F877A. Com dois LED's indicadores de correspondencias certas ou não. |
+| C003.simu   | Circuito com o microcontrolador PIC16F877A. Com dois LED's indicadores de correspondências certas ou não. |
 
 ### Links:
 ##### SimulIDE: https://www.simulide.com/p/home.html
