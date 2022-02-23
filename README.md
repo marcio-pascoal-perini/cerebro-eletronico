@@ -1,4 +1,4 @@
-### Projeto didático: Cérebro Eletrônico 2.0. Trata-se do aprimoramento do jogo de mesmo nome dos anos 1960 / 1970 criado e comercializado pela empresa: Brinquedos Guaporé.
+### Projeto didático: Cérebro Eletrônico 2.0. Trata-se do aprimoramento do jogo de mesmo nome dos anos 1960 / 1970 criado e comercializado pela empresa: Brinquedos Guaporé. Soluções: Um circuito utilizando portas logicas, outro com o Arduino Uno e por último um utilizando o microcontrolador PIC16F877A.
 
 ![](imagens/I000.jpg?raw=true "O Cérebro Eletrônico")
 
