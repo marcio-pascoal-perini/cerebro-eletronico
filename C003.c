@@ -1,5 +1,6 @@
 /****************************
-   mikroC PRO Arduino 7.6.0
+   mikroC PRO 7.6.0
+   PIC16F877A
    Márcio Pascoal Perini
    2022-02-21
 *****************************/
