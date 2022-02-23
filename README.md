@@ -1,12 +1,10 @@
-## Cérebro Eletrônico
+### Projeto didático: Cérebro Eletrônico 2.0. Trata-se do aprimoramento do jogo de mesmo nome dos anos 1960 / 1970 criado e comercializado pela empresa: Brinquedos Guaporé.
 
-![Cérebro Eletrônico](imagens/I000.jpg?raw=true "Cérebro Eletrônico")
+![](imagens/I000.jpg?raw=true "O Cérebro Eletrônico")
 
-### História:
+### Melhoramentos: No jogo original, apenas uma lâmpada indicava se as correspondências, entre as questões e as respostas, estavam corretas ou não. Na versão 2.0 temos dois LEDs, um que indica correspondências corretas e outra para as não corretas. No jogo original as correspondências erram feitas com pontas de provas. Na versão 2.0 são utilizados botões para as questões e para as respostas. No jogo original as correspondências entre as questões e respostas eram fixas. Na versão 2.0 é possível até oito combinações diferentes de correspondências através de três chaves.
 
-##### Cérebro Eletrônico era um jogo criado e comercializado pela empresa Brinquedos Guaporé nos anos 1960/1970. Era composto por dois campos de 20 contatos cada, 4 horizontais e 5 verticais. Cada um dos contatos de um campo estava conectado com um do outro campo, que ao fazer contato fechava a ponte e acendia uma lâmpada de 1,5v. Trazia também 5 folhas em que um campo era para perguntas gerais e claro o outro para as respostas.
-
-![Cérebro Eletrônico](imagens/I002.png?raw=true "Cérebro Eletrônico")
+![](imagens/I002.png?raw=true "Esquema original")
 
 ### Links:
 
@@ -15,7 +13,3 @@
 ##### Arduino: https://www.arduino.cc
 
 ##### mikroC PRO for PIC: https://www.mikroe.com/mikroc-pic
-
-
- 
-
