@@ -2,9 +2,13 @@
 
 ![](imagens/I000.jpg?raw=true "O Cérebro Eletrônico")
 
-### Melhoramentos: No jogo original, apenas uma lâmpada indicava se as correspondências, entre as questões e as respostas, estavam corretas ou não. Na versão 2.0 temos dois LEDs, um que indica correspondências corretas e outra para as não corretas. No jogo original as correspondências erram feitas com pontas de provas. Na versão 2.0 são utilizados botões para as questões e para as respostas. No jogo original as correspondências entre as questões e respostas eram fixas. Na versão 2.0 é possível até oito combinações diferentes de correspondências através de três chaves.
+### Melhoramentos: No jogo original, apenas uma lâmpada indicava se as correspondências, entre as questões e as respostas, estavam corretas ou não.
 
 ![](imagens/I002.png?raw=true "Esquema original")
+
+### Na versão 2.0 temos dois LEDs, um que indica correspondências corretas e outra para as não corretas. No jogo original as correspondências erram feitas com pontas de provas. Na versão 2.0 são utilizados botões para as questões e para as respostas. No jogo original as correspondências entre as questões e respostas eram fixas. Na versão 2.0 é possível até oito combinações diferentes de correspondências através de três chaves.
+
+![](imagens/C002.png?raw=true "Novo esquema")
 
 ### Links:
 | Ferramenta | Link |
